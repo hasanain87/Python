@@ -1,0 +1,2 @@
+Customer name ===  Robert Jack    Customer balance === 25.0    Time === 2019-03-02 21:23:10.865297
+Customer name ===  Robert Jack    Customer balance === 15.0    Time === 2019-03-02 21:23:10.865544
